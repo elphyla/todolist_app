@@ -1,0 +1,39 @@
+<% include ./partials/header %>
+
+<div class="container">
+    <h3><%=todo.title %></h3>
+    <div class="level">
+        <label>Importance: </label>
+        <p><%=todo.level%></p>
+    </div>
+    <div class="currentProgress">
+         <label>Current Progress: </label>
+        <p><%=todo.currentProgress%></p>
+    </div>
+    <div class="location">
+        <label>Location: </label>
+        <p><%=todo.location%></p>
+        
+    </div>
+    <div class="description">
+        <label>Description: </label>
+        <p><%=todo.description%></p>
+    </div>
+    <div class="date">
+        <label>Date of Creation: </label>
+        <span><%=todo.created.toDateString()%></span>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <a class="btn btn-light" href="/todos/<%=todo._id%>/edit" method="GET">Edit</a>
+        </div>
+        <div class="col-md-6">
+            <form id="delete" action="/todos/<%=todo._id%>?_method=DELETE" method="POST">
+                <button class="btn btn-light">Delete</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<% include ./partials/footer %>

@@ -1,0 +1,17 @@
+<% include ./partials/header %>
+    <div class="container">
+        <h1>To Do List</h1>
+    
+        <% todos.forEach(function(todo){ %>
+         <a class="button" href="/todos/<%= todo._id %>"><%=todo.title%></a>
+           <p><%=todo.level%></p>
+           <!--<p><%=todo.currentProgress%></p>
+           <p><%=todo.location%></p> -->
+           <p><%=todo.description.substring(0,50);%>...</p>
+           <span><%=todo.created.toDateString()%></span>
+           <a class="btn btn-default" type="button" href="/todos/<%= todo._id %>">Read More</a>
+           </br>
+
+        <% }) %>
+    </div>
+<% include ./partials/footer %>
