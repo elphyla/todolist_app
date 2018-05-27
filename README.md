@@ -18,7 +18,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 <h1> Screenshot of application </h1>
 
-<p align="center">
-  <img src="editTodo.jpg" width="350"/>
-  <img src="editTodo2.jpg" width="350"/>
-</p>
+![edittodo](https://user-images.githubusercontent.com/39594630/40584431-1294c986-61a9-11e8-9d4f-f6b5f949527c.jpg)
