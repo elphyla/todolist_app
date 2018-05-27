@@ -19,3 +19,11 @@ These instructions will get you a copy of the project up and running on your loc
 <h1> Screenshot of application </h1>
 
 ![edittodo](https://user-images.githubusercontent.com/39594630/40584431-1294c986-61a9-11e8-9d4f-f6b5f949527c.jpg)
+
+![edittodo2](https://user-images.githubusercontent.com/39594630/40584435-2fb02b8c-61a9-11e8-8ce6-3425fe57e750.jpg)
+
+![showtodo](https://user-images.githubusercontent.com/39594630/40584438-45b36228-61a9-11e8-84bd-66aa91ff447b.jpg)
+
+![todolocation](https://user-images.githubusercontent.com/39594630/40584440-559d8b50-61a9-11e8-8d29-b18e314929fe.jpg)
+
+![todos](https://user-images.githubusercontent.com/39594630/40584447-6a8359c8-61a9-11e8-9864-19a1cd0bd288.jpg)
