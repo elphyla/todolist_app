@@ -1,12 +1,10 @@
-# todolist_app
-
-<h1> Todo App </h1>
+# Todo App 
 A simple todo app with Node.js, Express and MongoDB. User can create todos and store them into the Database. There is an interaction with Google Maps Api for autocomplete searches and Google Maps Results based on the todo's location.
 
-<h1> Getting Started </h1>
+# Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-<h1> Prerequisites - Installing </h1>
+## Prerequisites - Installing 
 <ul>
   <li>Install <a href="https://nodejs.org/en/">Node.js</a> </li>
   <li>Install <a href="https://www.mongodb.com/download-center#atlas/">MongoDB</a> </li>
@@ -16,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
   <li>Then, node server.js.</li>
 </ul>
 
-<h1> Screenshots of the application </h1>
+## Screenshots of the application 
 
 ![edittodo](https://user-images.githubusercontent.com/39594630/40584431-1294c986-61a9-11e8-9d4f-f6b5f949527c.jpg)
 
