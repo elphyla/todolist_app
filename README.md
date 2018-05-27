@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
   <li>Then, node server.js.</li>
 </ul>
 
-<h1> Screenshots of application </h1>
+<h1> Screenshots of the application </h1>
 
 ![edittodo](https://user-images.githubusercontent.com/39594630/40584431-1294c986-61a9-11e8-9d4f-f6b5f949527c.jpg)
 
