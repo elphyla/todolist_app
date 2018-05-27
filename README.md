@@ -15,3 +15,10 @@ These instructions will get you a copy of the project up and running on your loc
   <li>cd to project root and enter npm install.</li>
   <li>Then, node server.js.</li>
 </ul>
+
+<h1> Screenshot of application </h1>
+
+<p align="center">
+  <img src="editTodo.jpg" width="350"/>
+  <img src="editTodo2.jpg" width="350"/>
+</p>
